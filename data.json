@@ -1,0 +1,49 @@
+{
+  "basics":{
+    "name":"Neelima",
+    "email":"neelimabitra41@gmail.com",
+    "mobile no":"+91-9996667774"
+  },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
+  "education":[
+    {
+    "degree":"B-TECH",
+    "institute":"PSCMR",
+    "data":["2015-2019","72%"]
+    },
+    {
+    "degree":"INTER",
+    "institute":"SRI CHAITANYA",
+    "data":["2013-2015","89%"]
+    },
+    {
+    "degree":"X",
+    "institute":"SS HIGH SCHOOL",
+    "data":["2013","78%"]
+    }
+  ],
+  "achievements":[
+    {
+      "name":"Got certificate in <b>C,C++JAVA<sup>st</sup>from IIT bombay</b> "
+    },
+    {
+      "name":"Got <strong>1<sup>st</sup>prize</strong> for <q> PPT Presentation</q>"
+    }
+  ],
+  "technicalskills":[
+    {
+      "name":"programming languages",
+      "data":["C","Java","python","php","c++"]
+    },
+    {
+      "name":"databases",
+      "data":["mysql","oracle"]
+    },
+    {
+      "name":"web technologies",
+      "data":["html","css","javascript"]
+    }
+  ]
+}
